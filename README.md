@@ -43,7 +43,7 @@ Adicionando itens ao pedido:
 ✅ 2 unidades de Pizza Estruturada adicionadas ao pedido!
 Deseja adicionar outro prato? (s/n):
 
-Resumo do pedido final:
+Resumo pedido final:
 
 === Pedido Final ===
 2x Pizza Estruturada - R$ 110.00
@@ -56,21 +56,15 @@ Obrigad@ pela preferência! Até a próxima missão gastronômica!
 
 ---
 
-Como Executar
+**Como Executar**
 
 1. Abra o código em um compilador C, como OnlineGDB ou outro de sua preferência.
 
-
 2. Compile e execute o programa.
-
 
 3. Siga as instruções do menu para adicionar pratos, bebidas e sobremesas.
 
-
 4. Finalize o pedido para ver o resumo detalhado com subtotal, total e desconto aplicado.
-
-
-
 
 ---
 
@@ -83,8 +77,6 @@ Melhorar a interface com cores e emojis adicionais
 Implementar ranking de itens mais pedidos
 
 Adicionar histórico de pedidos para múltiplos usuários
-
-
 
 ---
 
