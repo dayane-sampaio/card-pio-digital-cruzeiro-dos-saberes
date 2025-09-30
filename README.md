@@ -76,3 +76,5 @@ Licença
 
 Este projeto é apenas para fins acadêmicos e educativos.
 Sinta-se à vontade para estudar, adaptar e aprender com ele! 😊
+
+Link para o GDB -> https://onlinegdb.com/hWtKwWuH7h
