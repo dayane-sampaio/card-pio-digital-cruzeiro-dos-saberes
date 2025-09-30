@@ -4,6 +4,10 @@ Bem-vindo ao repositório do **Cruzeiro dos Sabores**, um cardápio digital inte
 
 Aqui, cada prato vem com uma pitada de aprendizado! 🧂💻
 
+![(print-execução.png)](https://github.com/dayane-sampaio/card-pio-digital-cruzeiro-dos-saberes/blob/main/print-execu%C3%A7%C3%A3o.png)
+
+![(print-execução2.png)](https://github.com/dayane-sampaio/card-pio-digital-cruzeiro-dos-saberes/blob/main/print-execu%C3%A7%C3%A3o2.png)
+
 ---
 
 ## Funcionalidades do Programa
@@ -65,18 +69,6 @@ Obrigad@ pela preferência! Até a próxima missão gastronômica!
 3. Siga as instruções do menu para adicionar pratos, bebidas e sobremesas.
 
 4. Finalize o pedido para ver o resumo detalhado com subtotal, total e desconto aplicado.
-
----
-
-Possíveis Melhorias
-
-Criar mais itens com referências de TI e educação
-
-Melhorar a interface com cores e emojis adicionais
-
-Implementar ranking de itens mais pedidos
-
-Adicionar histórico de pedidos para múltiplos usuários
 
 ---
 
